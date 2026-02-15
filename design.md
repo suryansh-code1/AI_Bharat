@@ -192,10 +192,10 @@ IN-STORE (EDGE LAYER)
 |                    |  6+ languages         |                |
 |                    +----------------------+                |
 +----------------------------------------------------------+
-```
+
 
 ---
-
+```
 ##Component Breakdown — Edge Layer, Data Ingestion, Storage
 
 ## Component Breakdown
