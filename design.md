@@ -1,6 +1,6 @@
 # Design Document
 
-## AI-MartIntel – AI-Driven Retail Intelligence for Bharat
+## MartIntel – AI-Driven Retail Intelligence for Bharat
 
 ---
 
@@ -194,11 +194,10 @@ IN-STORE (EDGE LAYER)
 +----------------------------------------------------------+
 
 ```
+
 ---
 
 ## Component Breakdown — Edge Layer, Data Ingestion, Storage
-
-## Component Breakdown
 
 ### 1. Edge Processing Layer (In-Store Vision)
 
@@ -473,7 +472,7 @@ This prefix stores generated reports and exportable summaries for retailers.
 
 ---
 
-##Intelligence Layer (All AI/ML Models + Fusion Engine + NLG)
+## Intelligence Layer (All AI/ML Models + Fusion Engine + NLG)
 
 ### 4. Intelligence Layer (AI/ML Models)
 
@@ -634,7 +633,7 @@ Retailer is informed during this period: "Predictions improve every week. High a
 
 ---
 
-##Backend Application Layer + Frontend / Presentation Layer
+## Backend Application Layer + Frontend / Presentation Layer
 
 ### 5. Backend Application Layer
 
@@ -831,8 +830,6 @@ The UI is fundamentally different from traditional analytics dashboards. It is d
 - **YELLOW — Billing queue 4 min average wait**
   - Peak at 7 PM
   - Consider opening 2nd counter
-
-
 
 #### 6.3 Tier-Specific UI Differences
 
