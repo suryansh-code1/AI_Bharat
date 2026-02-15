@@ -1,6 +1,3 @@
-
-
-```markdown
 # Requirements Document
 
 ## AI-MartIntel – AI-Driven Retail Intelligence for Bharat
@@ -575,4 +572,3 @@ Existing enterprise solutions are prohibitively expensive (₹50,000–₹5,00,0
 | v2.0 | Month 7–9 | Full fusion engine, multi-camera support, cross-zone path analysis, product placement optimizer |
 | v2.5 | Month 10–12 | Staff analytics (Enterprise), FMCG brand data API (anonymized), white-label option |
 | v3.0 | Year 2 | Predictive layout optimizer, voice interface, WhatsApp bot, auto-ordering integration, native mobile apps |
-```
