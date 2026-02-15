@@ -1,6 +1,6 @@
 # Requirements Document
 
-## AI-MartIntel – AI-Driven Retail Intelligence for Bharat
+## MartIntel – AI-Driven Retail Intelligence for Bharat
 
 **Elevator Summary:** AI-MartIntel is a zero-effort retail intelligence platform that automatically captures sales data from billing systems and analyzes in-store human movement through existing CCTV cameras using AI vision — then fuses both streams to deliver real-time, actionable insights on demand, pricing, product placement, and store layout to Indian retailers, from kirana stores to brand chains, in their own language, on their phone.
 
