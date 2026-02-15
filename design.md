@@ -192,7 +192,7 @@ IN-STORE (EDGE LAYER)
 |                    |  6+ languages         |                |
 |                    +----------------------+                |
 +----------------------------------------------------------+
-
+```
 
 ---
 
@@ -242,7 +242,7 @@ All devices are pre-flashed with AI-MartIntel edge software before deployment. P
   "max_occupancy": 6,
   "queue_length": null
 }
-
+```
 **What is NOT transmitted:** No frames. No images. No video. No bounding boxes. No appearance features.
 
 ---
@@ -474,7 +474,6 @@ This prefix stores generated reports and exportable summaries for retailers.
 
 ##Intelligence Layer (All AI/ML Models + Fusion Engine + NLG)
 
-```markdown
 ### 4. Intelligence Layer (AI/ML Models)
 
 **Purpose:** Generate predictions, recommendations, and insights from ingested data using machine learning and AI.
@@ -614,6 +613,7 @@ Retailer is informed during this period: "Predictions improve every week. High a
   "zone_conversion": 0.03,
   "language": "hi"
 }
+```
 
 **Example output (Hindi):**
 
@@ -635,7 +635,6 @@ Retailer is informed during this period: "Predictions improve every week. High a
 
 ##Backend Application Layer + Frontend / Presentation Layer
 
-```markdown
 ### 5. Backend Application Layer
 
 **Purpose:** Business logic, API orchestration, workflow management, and event-driven processing.
@@ -810,6 +809,7 @@ The UI is fundamentally different from traditional analytics dashboards. It is d
 |                                     |
 |  [Home] [Stock] [Map] [Settings]    |
 +-------------------------------------+
+```
 
 **Store Map / Heatmap View (Standard + Enterprise):**
 
