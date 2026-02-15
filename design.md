@@ -193,9 +193,9 @@ IN-STORE (EDGE LAYER)
 |                    +----------------------+                |
 +----------------------------------------------------------+
 
-
----
 ```
+---
+
 ## Component Breakdown — Edge Layer, Data Ingestion, Storage
 
 ## Component Breakdown
