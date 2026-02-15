@@ -230,7 +230,7 @@ All devices are pre-flashed with AI-MartIntel edge software before deployment. P
 6. **Metadata Transmission**: Anonymized metadata packet sent via HTTPS POST to AWS IoT Core or API Gateway
 
 **What is transmitted (numbers only):** 
-**This can be decided based on the store or brand policies.**
+*This can be decided based on the store or brand policies.*
 
 ```text
 {
